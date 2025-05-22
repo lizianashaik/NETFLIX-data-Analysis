@@ -17,7 +17,7 @@ This project analyzes Netflix's content dataset to uncover insights about trends
 
 ## 📁 Files
 
-- `Netflix_Analysis.ipynb` – Jupyter Notebook containing code, analysis, and visualizations  
+- `netflixdataanalysis.ipynb` – Jupyter Notebook containing code, analysis, and visualizations  
 - `netflix_titles.csv` – Dataset used for analysis (if permissible to share)  
 - `README.md` – This documentation file  
 
